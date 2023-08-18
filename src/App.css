@@ -13,7 +13,8 @@
 }
 .generator__header{
   text-align: center;
-  color: maroon;
+  color: White;
+  font-weight: 900;
   margin-bottom: 20px;
 }
 .generator__password{
